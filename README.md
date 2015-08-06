@@ -1,4 +1,6 @@
 ##What is VillageCP?
+
+[![Join the chat at https://gitter.im/VillageCP/VillageCP](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/VillageCP/VillageCP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 VillageCP is the best self-hosted Minecraft server donations alternative. We aim to make collecting server donations as easy and hands-free as possible.
 
 ##You're in control.
